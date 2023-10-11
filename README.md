@@ -61,7 +61,7 @@ I've added badges to my repositories to showcase project status, build status, a
 
 You can also connect with me on other developer platforms:
 
-- [Stack Overflow](https://stackoverflow.com/users/your-stack-overflow-profile)
+- [Stack Overflow](https://stackoverflow.com/users/21595409/shubham-ghanghotia)
 - [Dev.to](https://dev.to/your-devto-profile)
 
 ## 🤝 Open for Collaboration
@@ -70,7 +70,7 @@ I'm enthusiastic about collaboration and open-source projects. If you have a gro
 
 ## 🌐 Custom Domain
 
-You can explore my GitHub Pages site at [www.yourdomain.com](https://www.yourdomain.com), giving my profile a more professional touch.
+You can explore my GitHub Pages site at [https://shubhamghanghotia1.github.io/blog/](https://shubhamghanghotia1.github.io/blog/), giving my profile a more professional touch.
 
 ## 🔄 Regular Updates
 
