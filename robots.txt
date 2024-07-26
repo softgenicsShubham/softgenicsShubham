@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://softgenicsshubham.github.io/softgenicsShubham/sitemap.xml
